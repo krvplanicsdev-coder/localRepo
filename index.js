@@ -1,2 +1,2 @@
 console.log("hello world");
-console.log("from feature one");
+console.log("hello friends");
